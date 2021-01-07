@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2021-01-04
+img: suzuki.jpg
+alt: image-alt
+project-date: April 2014
+client: Suzuki contest
+#category: Web Development
+description: A thing I did for Suzuki
+---

@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2021-01-05
+img: blackgirl.jpg
+alt: image-alt
+project-date: April 2014
+#client: Suzuki contest
+#category: Web Development
+description: A drawing I did
+---

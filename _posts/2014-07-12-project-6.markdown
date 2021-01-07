@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2021-01-06
+img: smoking.jpg
+alt: image-alt
+project-date: April 2014
+#client: Suzuki contest
+#category: Web Development
+description: A guy smoking
+---
