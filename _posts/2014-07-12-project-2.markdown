@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 7
-date: 2014-07-18
-img: parrot.jpg
+modal-id: 2
+date: 2021-01-02
+img: electricgirl.jpg
 alt: image-alt
 project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: This is a parrot I did because I like parrots
+description: I like girls and electricity too
 ---
